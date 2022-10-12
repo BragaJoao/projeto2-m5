@@ -1,5 +1,5 @@
 import './header.scss'
-// import { CiLogout } from "react-icons/ci";
+import { IoLogOutOutline } from "react-icons/io5";
 
 export default function Header (){
   return(
@@ -9,7 +9,7 @@ export default function Header (){
           <h1>GameFlix</h1>
         </div>
         <div className="sair">
-       
+       <IoLogOutOutline/>
         </div>
       </div>
     </header>
