@@ -4,3 +4,4 @@ import './usuario.scss'
 export default function User (){
   return <Header/>
 }
+//construção
