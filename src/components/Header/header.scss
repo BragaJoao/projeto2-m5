@@ -1,0 +1,17 @@
+@import '../../styles/variaveis.scss';
+
+header{
+  background: $background-login;
+  display: flex;
+}
+body{
+  background: $background;
+}
+
+.logo{
+  h1{
+    color: $color-logo;
+    padding: .2rem .7rem;
+    margin: 0;
+  }
+}
