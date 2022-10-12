@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nome": "Amanda",
+    "foto": "../assets/user.svg"
+  },
+  {
+    "id": 2,
+    "nome": "Ednilson",
+    "foto": "../assets/user.svg"
+  },
+  {
+    "id": 3,
+    "nome": "Caio",
+    "foto": "../assets/user.svg"
+  },
+  {
+    "id": 4,
+    "nome": "Joao",
+    "foto": "../assets/user.svg"
+  },
+  {
+    "id": 5,
+    "nome": "Thiago",
+    "foto": "../assets/user.svg"
+  }
+]
